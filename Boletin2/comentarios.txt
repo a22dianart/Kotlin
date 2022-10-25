@@ -1,1 +1,8 @@
-
+EXERCICIO_1: Programa para ver se un número é par ou impar
+EXERCICIO_2: Programa que nos di o resultado do IMC dunha persoa
+EXERCICIO_3: Programa para ver se un número é múltiplo de outro 
+EXERCICIO_4: Programa que le 3 números e di se son iguais
+EXERCICIO_5: Programa animais
+EXERCICIO_6: Programa ver segundo o número a que mes corresponde
+EXERCICIO_7: Programa ver segundo mes que número lle corresponde
+EXERCICIO_8: Programa ver segundo numero de mes en que estación está
