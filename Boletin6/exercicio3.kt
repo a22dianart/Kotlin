@@ -10,5 +10,6 @@ fun main() {
                 println("NON")
             }
         }
+        parar = parar -1
     }
 }
