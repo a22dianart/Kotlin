@@ -1,0 +1,5 @@
+EXERCICIOS DE ¡ACEPTA EL RETO!
+EXERCICIO_1: Programa que imprime os Hola mundo que queiramos.
+EXERCICIO_2: Programa que nos di se unha rúa está na esquerda ou na dereita.
+EXERCICIO_3: Programa que nos di SI cando introducimos por teclado "25 12" (o dia de nadal) e NON o resto dos días.
+EXERCICIO_4: Programa que calcula o perímetro dun rectángulo. O programa acaba cando introducimos un lado negativo.
