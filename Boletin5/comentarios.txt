@@ -1,0 +1,7 @@
+EXERCICIO_1: Substituír un programa feito cun bucle for por un programa cun bucle while (este programa di o min e o max dun array).
+EXERCICIO_2: Cambiar o programa anterior e usar unha lista.
+EXERCICIO_3: Imprimir a media dunha serie de notas (usando un array).
+EXERCICIO_4: Cambiar o programa anterior e usar unha lista.
+EXERCICIO_5: Programa que cun array de números inprima o resultado de sumarlle 2 a cada un (que imprima de un a un).
+EXERCICIO_6: Cambiar o programa anterior e usar unha lista.
+EXERCICIO_7: Programa que permita introducir varios números nunha liña, os sume e imprima o rsultado. Cando unha liña conteña só o número 0 o programa acábase.
