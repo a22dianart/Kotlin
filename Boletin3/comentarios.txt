@@ -1,0 +1,6 @@
+EXERCICIO_1: Programa para imprimir números do 0 ao 10 empregando 3 bucles distintos.
+EXERCICIO_2: Programa para imprimir os números pares do 0 ao 10.
+EXERCICIO_3: Programa para imprimir os números pares do 50 ao 0 (impresión descendente).
+EXERCICIO_4: Programa para imprimir a progresión 1 2 4 8 16 32 ...1024.
+EXERCICIO_5: Programa que substitúe un for por un while.
+EXERCICIO_6: Programa que imprime as tablas de multiplicar do 1 ao 9.
