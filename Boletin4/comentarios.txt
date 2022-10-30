@@ -1,0 +1,8 @@
+EXERCICIO_1: Programa dunha función que imprime "Pienso que la vida es dura".
+EXERCICIO_2: Programa dunha función que imprime "Pienso que (o que escribas)".
+EXERCICIO_3: Programa dunha función que suma dous números enteiros e che imprime o resultado.
+EXERCICIO_4: Programa dunha función que devolve a suma de dous números enteiros (non imprime nada).
+EXERCICIO_5: Programa dunha función repartir() que ao indicarlle o dividendo e o divisor nos da o cociente (en enteiro e redondeando cara abaixo).
+EXERCICIO_6: Programa dunha función que compara dous números reais e di true cando o primeiro é maior e di false cando o segundo é maior.
+EXERCICIO_7: Programa dunha función imprimirTabla() que imprime a tabla de multiplicar do número do primeiro argmento ata o número do segundo argumento.
+EXERCICIO_8: Programa dunha función readlnToInt() que converte unha liña do teclado en un enteiro (supoñendo que se introduce un enteiro).
